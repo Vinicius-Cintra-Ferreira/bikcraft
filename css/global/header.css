@@ -59,6 +59,12 @@
 }
 
 @media (max-width: 600px) {
+  .header {
+    justify-content: center;
+  }
+  .header img {
+    margin-bottom: 16px;
+  }
   .header-menu {
     gap: 12px;
   }
